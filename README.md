@@ -38,8 +38,6 @@ I'm a Software Engineering student at **Addis Ababa University ** who enjoys bui
 ### Tools & Technologies
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,figma" /> </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,figma" />
-</p>
+
 
 
