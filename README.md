@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
-I'm a Software Engineering student at **Addis Ababa University ** who enjoys building practical software and exploring **AI, Machine Learning, and emerging technologies**.
+I'm a Software Engineering student at **Addis Ababa University** who enjoys building practical software and exploring **AI, Machine Learning, and emerging technologies**.
 
 ---
 
