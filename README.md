@@ -26,8 +26,6 @@ I'm a Software Engineering student at **Addis Ababa Institute of Technology (AAi
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres,mongodb,sqlite" />
 </p>
 
-### Tools & Technologies
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,figma" />
 </p>
@@ -46,18 +44,12 @@ I'm a Software Engineering student at **Addis Ababa Institute of Technology (AAi
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinsine10&show_icons=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinsine10&layout=compact&theme=transparent" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinsine10&show_icons=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinsine10&layout=compact&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
-
-<p>
-  <a href="https://github.com/Sinsine10">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
 </p>
 
